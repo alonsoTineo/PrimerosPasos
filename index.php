@@ -7,3 +7,9 @@ function  suma($a, $b)
 }
 
 suma(2, 3);
+
+function resta($a,$b){
+  return $a - $b;
+}
+
+resta(3,2);
