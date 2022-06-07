@@ -13,3 +13,10 @@ function resta($a,$b){
 }
 
 resta(3,2);
+
+
+function multi($a,$b){
+  return $a * $b;
+}
+
+resta(3,2);
